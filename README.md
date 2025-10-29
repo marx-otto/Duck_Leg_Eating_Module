@@ -1,4 +1,4 @@
-秃鹫的盛宴！
+# 秃鹫的盛宴！
 
 先搬起，再按 E 食用鸭腿！
 
@@ -6,10 +6,10 @@
 
 BOSS 鸭腿：+40 生命值 | +60 水分 | +60 饱食度 | +50% 体型
 
-mod模板参考：
+# mod模板参考：
 https://github.com/xvrsl/duckov_modding
 
-调试工具
+# 调试工具
 JetBrains Rider
 BepInEx：https://github.com/BepInEx/BepInEx
 UnityExplorer：https://github.com/yukieiji/UnityExplorer
